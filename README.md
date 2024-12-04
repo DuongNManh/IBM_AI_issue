@@ -26,9 +26,31 @@ Supervised learning involves training a model using labeled data. For example, c
 
 2. **Regression**  
    Regression predicts continuous values based on input data.
+   Base on the **independent variable** to determite continuous value of **Dependent variable**
+   
 
    ![Regression Example](https://github.com/user-attachments/assets/ab8407f7-af24-4cad-bdbc-44d5ce5c8608)
+   ![Regression Example](https://github.com/user-attachments/assets/ee05f076-bbd9-41b9-8812-1def7da438c2)
+   ![Regression Example](https://github.com/user-attachments/assets/f03bdfc0-d9aa-47d4-8202-7e1b9cc521d5)
 
+   - Types of regression models:
+     - Simple Regression: Simple Linear & Non-linear Regression
+       ---
+          1.Linear Regression representation
+         ![Linear Regression representation](https://github.com/user-attachments/assets/455ead21-8ac5-4eae-b239-5f143ccbb932)
+          2.Find the best fit linear
+         ![Find the best fit linear](https://github.com/user-attachments/assets/79da396b-42f4-4646-970a-26725300776c)
+          3.Estimating the parameters
+         ![Estimating the parameters](https://github.com/user-attachments/assets/a9c64f28-8edd-469c-bea0-ddbb6ec64722)
+          4.Predict with linear regression
+         ![image](https://github.com/user-attachments/assets/1ad70d32-5808-426d-9c99-1ab25c400ee8)
+
+
+
+     - Multiple Regression: Multiple Linear & Non-linear Regression
+
+   - Application:
+      ![Regression Application](https://github.com/user-attachments/assets/ae1a171c-0545-468c-8c2d-522fa834a3bd)
 ---
 
 ### 📙 **Unsupervised Learning**
@@ -51,3 +73,14 @@ Unsupervised learning uses **unlabeled data**:
 
 2. **Dimensionality Reduction**  
    Reduce the number of variables while retaining essential information.
+
+---
+
+#### 🧠 **Model evaluation**
+1. Caculate the accurency of the model (how can this model predict an unknown dataset)
+   - Using a portion of the dataset: train the model by entire dataset (labeled) and check by part of unlabeled data in same dataset
+     ![accurency of the model](https://github.com/user-attachments/assets/f18d3d70-e0a6-4c8f-a358-13556cdf33bd)
+     ![accurency of the model](https://github.com/user-attachments/assets/aeaff0db-c0a7-4fc7-915a-893f04ad32b0)
+
+   - 
+
