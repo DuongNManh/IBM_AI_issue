@@ -36,18 +36,33 @@ Supervised learning involves training a model using labeled data. For example, c
    - Types of regression models:
      - Simple Regression: Simple Linear & Non-linear Regression
        ---
-          1.Linear Regression representation
-         ![Linear Regression representation](https://github.com/user-attachments/assets/455ead21-8ac5-4eae-b239-5f143ccbb932)
-          2.Find the best fit linear
-         ![Find the best fit linear](https://github.com/user-attachments/assets/79da396b-42f4-4646-970a-26725300776c)
-          3.Estimating the parameters
-         ![Estimating the parameters](https://github.com/user-attachments/assets/a9c64f28-8edd-469c-bea0-ddbb6ec64722)
-          4.Predict with linear regression
-         ![image](https://github.com/user-attachments/assets/1ad70d32-5808-426d-9c99-1ab25c400ee8)
-
-
-
+          
      - Multiple Regression: Multiple Linear & Non-linear Regression
+       ---
+       
+      - Linear Regression: Simple Linear & Multiple Regression
+        ---
+         - Simple Linear
+           1.Simple Linear Regression representation
+           ![Simple Linear Regression representation](https://github.com/user-attachments/assets/455ead21-8ac5-4eae-b239-5f143ccbb932)
+           2.Find the best fit Linear
+           ![Find the best fit linear](https://github.com/user-attachments/assets/79da396b-42f4-4646-970a-26725300776c)
+           3.Estimating the parameters
+           ![Estimating the parameters](https://github.com/user-attachments/assets/a9c64f28-8edd-469c-bea0-ddbb6ec64722)
+           4.Predict with linear regression
+           ![image](https://github.com/user-attachments/assets/1ad70d32-5808-426d-9c99-1ab25c400ee8)
+
+         - Multiple Linear
+          1.Multiple Linear Regression representation
+          ![Multiple Linear Regression representation](https://github.com/user-attachments/assets/736b8906-409e-4a18-862f-57159b9b4d06)
+          2.Expose the errors in the model
+          ![Expose the errors in the model](https://github.com/user-attachments/assets/d7bde9d9-79a3-4680-9267-682287ebe688)
+          3.Estimating the parameters
+          ![Estimating the parameters](https://github.com/user-attachments/assets/59be527b-e05a-4b75-bc88-9d1ed4531506)
+          ![Estimating the parameters](https://github.com/user-attachments/assets/b81b36f8-be99-495e-a9e7-cb2977c8fa05)
+        ---
+           **Question:**
+           ![Question](https://github.com/user-attachments/assets/dfa85da0-65d0-4109-af8a-88a7560d77e9)
 
    - Application:
       ![Regression Application](https://github.com/user-attachments/assets/ae1a171c-0545-468c-8c2d-522fa834a3bd)
