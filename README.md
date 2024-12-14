@@ -1,4 +1,4 @@
-# 🌟 **IBM AI Issue**
+S# 🌟 **IBM AI Issue**
 
 ## 🚀 **Python Library for Machine Learning**
 The `scikit-learn` package allows you to complete machine learning tasks with just a few lines of code.
@@ -21,10 +21,22 @@ Supervised learning involves training a model using labeled data. For example, c
 #### 🧠 **Types of Supervised Learning**
 1. **Classification**  
    Classification predicts discrete categories or classes for a given input.
-
    ![Classification Example](https://github.com/user-attachments/assets/3d8142ec-f445-4906-b9a9-cab78c16e924)
 
-2. **Regression**  
+   Classification determines the class label for an unlabeled test case.
+   ![Classification](https://github.com/user-attachments/assets/43e67d21-1a99-45d4-a61c-7f3fd5532e7d)
+
+   Biany Classification and Multiclass Classification
+   - Multiclass Classification: A classifier that can predict a field with multiple discrete values, such as ”DrugA", ”DrugX" or "DrugY”. 
+   ![Multiclass Classification](https://github.com/user-attachments/assets/0ea16686-f0a0-476f-88cc-d0562a8aa269)
+
+   Classification applications
+   ![Classification applications](https://github.com/user-attachments/assets/f89ed970-f937-4116-b129-d6eb0582bdd6)
+
+   Classification algorithms in ML
+   ![Classification algorithms](https://github.com/user-attachments/assets/6a60f116-31c3-406d-bae3-ecd0fb61342a)
+
+3. **Regression**  
    Regression predicts continuous values based on input data.
    Base on the **independent variable** to determite continuous value of **Dependent variable**
    
