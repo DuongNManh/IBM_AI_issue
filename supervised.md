@@ -21,6 +21,16 @@ Supervised learning involves training a model using labeled data. For example, c
    Classification algorithms in ML
    ![Classification algorithms](https://github.com/user-attachments/assets/6a60f116-31c3-406d-bae3-ecd0fb61342a)
 
+   K-Nearest Neighbours
+   - A method for classifying cases based on their similarity to other cases
+   ![K-Nearest Neighbours](https://github.com/user-attachments/assets/b406a405-bfe2-4c4a-9390-d181695a59ec)
+   - Working of the KNN algorithm
+   ![Working of the KNN algorithm](https://github.com/user-attachments/assets/a23c15a4-d944-4286-be1a-00728635e684)
+   - what is the best value of K for KNN
+      Select K and computing, select the best K for the KNN
+   ![best value of K for KNN](https://github.com/user-attachments/assets/fb8b28ff-2820-4e88-b8da-f848cd121ffc)
+
+
 3. **Regression**  
    Regression predicts continuous values based on input data.
    Base on the **independent variable** to determite continuous value of **Dependent variable**
