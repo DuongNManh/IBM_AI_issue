@@ -23,15 +23,30 @@ Supervised learning involves training a model using labeled data. For example, c
 
    K-Nearest Neighbours
    - A method for classifying cases based on their similarity to other cases
+   - Where the data is 'trained' with data points corresponding to their classification. To predict the class of a given data point, it takes into account the classes of the 'K' nearest data points and chooses the class in which the majority of the 'K' nearest data points belong to as the predicted class.
    ![K-Nearest Neighbours](https://github.com/user-attachments/assets/b406a405-bfe2-4c4a-9390-d181695a59ec)
+   ![K-Nearest Neighbours](https://github.com/user-attachments/assets/7d454108-5499-4a83-853b-b20c51937af5)
+
    - Working of the KNN algorithm
    ![Working of the KNN algorithm](https://github.com/user-attachments/assets/a23c15a4-d944-4286-be1a-00728635e684)
    - what is the best value of K for KNN
       Select K and computing, select the best K for the KNN
    ![best value of K for KNN](https://github.com/user-attachments/assets/fb8b28ff-2820-4e88-b8da-f848cd121ffc)
 
+2. **Decision Tree**  
+   ![Decision Tree](https://github.com/user-attachments/assets/b793aac6-b49e-4638-be10-a6e19820544e)
+   - testing an attribute and branching the cases based on the result of the test
+   ![Build DT](https://github.com/user-attachments/assets/276b7419-645b-4533-b0ce-1a4931c6818f)
+   - Demo build the DT
+   ![Build DT](https://github.com/user-attachments/assets/b99952b6-0281-49e9-8392-6975c431a113)
+     - choose the attribute for can split the data into good classification
+        ![DT](https://github.com/user-attachments/assets/07006546-7d67-40a0-873b-e3684d0fa487)
+        ![DT](https://github.com/user-attachments/assets/b7baeacd-5378-4d83-b22f-8b08ab1cefd8)
+        ![DT](https://github.com/user-attachments/assets/d3c73d70-e3a1-40d5-850d-fa22fd0351f5)
+      - entropy: the randomness in the data.
+        ![entropy](https://github.com/user-attachments/assets/e7e4b900-c840-4d9c-8a13-6e9500b7940d)
 
-3. **Regression**  
+4. **Regression**  
    Regression predicts continuous values based on input data.
    Base on the **independent variable** to determite continuous value of **Dependent variable**
    
